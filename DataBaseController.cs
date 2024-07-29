@@ -25,7 +25,7 @@ namespace TankWars
         // The web server, needed to properly close the server
         private TcpListener webTcp;
         // Connection string to the used database
-        private const string connectionString = "server=atr.eng.utah.edu;database=cs3500_u1053412;uid=cs3500_u1053412;password=hi12345";
+        private const string connectionString = "server=";
 
         /// <summary>
         /// Initializes the database controller
